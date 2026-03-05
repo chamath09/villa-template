@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 const attractions = [
   {
     title: 'Udawalawe National Park Safari',
-    image: 'https://images.unsplash.com/photo-1581850518616-bcb8077a2536?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=1000&auto=format&fit=crop',
     desc: 'Witness majestic elephants and diverse wildlife in their natural habitat.'
   },
   {

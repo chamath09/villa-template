@@ -30,7 +30,7 @@ export default function About() {
                 className="rounded-2xl shadow-lg w-full h-64 object-cover mt-12"
               />
               <img
-                src="https://images.unsplash.com/photo-1571896349842-6e53ce41e887?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1000&auto=format&fit=crop"
                 alt="Villa Bedroom"
                 className="rounded-2xl shadow-lg w-full h-64 object-cover"
               />
